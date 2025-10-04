@@ -1,0 +1,12 @@
+{
+  "name": "aws-cicd-project",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for AWS CI/CD demo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
